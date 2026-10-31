@@ -3,7 +3,7 @@
 window.ASSETS = {
   // All art/audio resolves as dirs[kind] + filename. Mappings below are id -> filename only; rename here if artists rename.
   dirs: { bg: "assets/bg/", cg: "assets/cg/", sprites: "assets/sprites/", music: "assets/music/", sfx: "assets/sfx/" },
-  preferVersion: { cg: 3 },             // Robert final-build: pin Theo's _v3 CGs/key art; remove to use newest _vN
+  preferVersion: {},             // Robert final-build: pin Theo's _v3 CGs/key art; remove to use newest _vN
   styleMaster: null,
   bg: { // draft bg_id -> Atlas file in art/bg (Robert's alias map, Oct 12 23:34). An exact bg_<draftid>.* always wins.
     brick_house_porch_dusk: "bg_porch_storm_dusk.png",

@@ -16,12 +16,12 @@ window.ASSET_FILES = {
   "bg_uncle_fred_house_backyard_afternoon.webp"
  ],
  "cg": [
-  "cg_ch1_boulder_rock_war_v3.webp",
-  "cg_ch1_car_asleep_dusk_v3.webp",
-  "cg_ch1_dirt_pile_day_v3.webp",
-  "cg_ch1_porch_donkey_story_storm_v3.webp",
-  "cg_ch1_stay_home_day_v3.webp",
-  "title_keyart_v3.webp"
+  "cg_ch1_boulder_rock_war_v9.webp",
+  "cg_ch1_car_asleep_dusk_v5.webp",
+  "cg_ch1_dirt_pile_day_v13.webp",
+  "cg_ch1_porch_donkey_story_storm_v9.webp",
+  "cg_ch1_stay_home_day_v10.webp",
+  "title_keyart_v5.webp"
  ],
  "sprites": [
   "azriel/happy.webp",
